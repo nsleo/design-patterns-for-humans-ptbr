@@ -17,13 +17,13 @@ Esse tópico pode fazer qualquer um enloquecer. Essa é uma tentativa de fazer v
 Introdução
 =================
 
-Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
+Design patterns (ou Padrões de Design, ou Padrão de Projeto) são soluções para problemas recorrentes; **orientações sobre como lidar com esses problemas**. Esses Patterns não são classes, packages (pacotes) ou libraries (bibliotecas) que você pode colocar na sua aplicação e esperar que a mágica aconteça. Eles são, na verdade, orientações sobre como lidar com certos problemas em certas situações.
 
-> Design patterns are solutions to recurring problems; guidelines on how to tackle certain problems
+> Design patterns são soluções para problemas recorrentes; Orientações sobre como lidar com certos problemas.
 
-Wikipedia describes them as
+Wikipedia descreve como:
 
-> In software engineering, a software design pattern is a general reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations.
+> Em Engenharia de Software, um padrão de projeto (português brasileiro)(do inglês design pattern)) é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software. Um padrão de projeto não é um projeto finalizado que pode ser diretamente transformado em código fonte ou de máquina, ele é uma descrição ou modelo (template) de como resolver um problema que pode ser usado em muitas situações diferentes.
 
 ⚠️ Be Careful
 -----------------
