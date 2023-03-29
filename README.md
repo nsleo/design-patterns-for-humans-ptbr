@@ -12,7 +12,7 @@ Esse tópico pode fazer qualquer um enloquecer. Essa é uma tentativa de fazer v
 ***
 
 <sub>Esse guia é uma versão traduzida (não literal) do [original](https://github.com/kamranahmedse/design-patterns-for-humans).</sub><br>
-<sub>[blog](http://kamranahmed.info) e [Twitter](https://twitter.com/kamranahmedse) do criador.</sub>
+<sub>[Blog](http://kamranahmed.info) e [Twitter](https://twitter.com/kamranahmedse) do criador.</sub>
 
 Introdução
 =================
