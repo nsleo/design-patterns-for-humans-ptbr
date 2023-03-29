@@ -3,17 +3,18 @@
 ***
 
 <p align="center">
-🎉 Ultra-simplified explanation to design patterns! 🎉
+🎉 Guia <strong><i>ultra mega simplificado</i></strong> sobre Design Patterns! 🎉
 </p>
 <p align="center">
-A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+Esse tópico pode fazer qualquer um enloquecer. Essa é uma tentativa de fazer você (e talvez eu) finalmente entender pela explicação mais <i>simplificada</i> possível.
 </p>
 
 ***
 
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+<sub>Esse guia é uma versão traduzida (não literal) do [original](https://github.com/kamranahmedse/design-patterns-for-humans).</sub><br>
+<sub>[blog](http://kamranahmed.info) e [Twitter](https://twitter.com/kamranahmedse) do criador.</sub>
 
-Introduction
+Introdução
 =================
 
 Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
