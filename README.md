@@ -25,16 +25,16 @@ Wikipedia descreve como:
 
 > Em Engenharia de Software, um padrão de projeto (português brasileiro)(do inglês design pattern)) é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software. Um padrão de projeto não é um projeto finalizado que pode ser diretamente transformado em código fonte ou de máquina, ele é uma descrição ou modelo (template) de como resolver um problema que pode ser usado em muitas situações diferentes.
 
-⚠️ Be Careful
+⚠️ Atenção
 -----------------
-- Design patterns are not a silver bullet to all your problems.
-- Do not try to force them; bad things are supposed to happen, if done so. 
-- Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
-- If used in a correct place in a correct manner, they can prove to be a savior; or else they can result in a horrible mess of a code.
+- Design patterns não são uma bala de prata para todos os seus problemas.
+- Não tente forçá-los; coisas ruins devem acontecer, se assim for feito.
+- Mantenha em mente que design patterns são soluções **para** problemas, não soluções para **encontrar** problemas; então não pense demais.
+- Se utilizado no lugar correto de maneira correta, podem ser um salvador; ou então podem causar uma enorme bagunça no código.
 
-> Also note that the code samples below are in PHP-7, however this shouldn't stop you because the concepts are same anyways.
+> Perceba também que os códigos abaixo estão em PHP-7, no entanto isso não deve atrapalhar pois os conceitos são os mesmos.
 
-Types of Design Patterns
+Tipos de Design Patterns
 -----------------
 
 * [Creational](#creational-design-patterns)
