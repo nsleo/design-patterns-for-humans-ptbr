@@ -21,7 +21,7 @@ Design patterns (ou Padrões de Design, ou Padrão de Projeto) são soluções p
 
 > Design patterns são soluções para problemas recorrentes; Orientações sobre como lidar com certos problemas.
 
-Wikipedia descreve como:
+Wikipedia diz:
 
 > Em Engenharia de Software, um padrão de projeto (português brasileiro)(do inglês design pattern)) é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software. Um padrão de projeto não é um projeto finalizado que pode ser diretamente transformado em código fonte ou de máquina, ele é uma descrição ou modelo (template) de como resolver um problema que pode ser usado em muitas situações diferentes.
 
@@ -37,18 +37,18 @@ Wikipedia descreve como:
 Tipos de Design Patterns
 -----------------
 
-* [Creational](#creational-design-patterns)
-* [Structural](#structural-design-patterns)
-* [Behavioral](#behavioral-design-patterns)
+* [Creational (Criacionais)](#padrões-criacionais)
+* [Structural (Estruturais)](#structural-design-patterns)
+* [Behavioral (Comportamentais)](#behavioral-design-patterns)
 
-Creational Design Patterns
+Padrões Criacionais
 ==========================
 
-In plain words
-> Creational patterns are focused towards how to instantiate an object or group of related objects.
+Resumindo
+> Padrões Criacionais são focados em como instanciar um objeto ou grupo de objetos relacionados.
 
-Wikipedia says
-> In software engineering, creational design patterns are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation.
+Wikipedia diz
+> Na engenharia de software, os padrões criacionais são padrões de projeto que lidam com mecanismos de criação de objetos , tentando criar objetos de maneira adequada à situação. A forma básica de criação do objeto pode resultar em problemas de projeto ou em complexidade adicional ao design. Os padrões criacionais resolvem esse problema controlando de alguma forma a criação desse objeto.
 
  * [Simple Factory](#-simple-factory)
  * [Factory Method](#-factory-method)
